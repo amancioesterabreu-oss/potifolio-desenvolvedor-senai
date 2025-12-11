@@ -1,2 +1,2 @@
 # potifolio-desenvolvedor-senai
-projeto realizador no curso de desenvolvimento de sistemas
+projeto realizado no curso de desenvolvimento de sistemas
